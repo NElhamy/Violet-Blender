@@ -15,6 +15,7 @@ Welcome to my "Violet-Blender" repository! This is where I'm sharing my first st
 ## Rendered Artwork
 
 Here's a short rendered animation showcasing her:
+
 <img src="renders/violet.gif" width="400" height="482" alt="Violet Animation">
 
 ## Goals
