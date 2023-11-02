@@ -13,10 +13,10 @@ Welcome to my "Violet-Blender" repository! This is where I'm sharing my first st
 ## Rendered Artwork
 
 Here's an image of Violet:
-![Violet Render](violet.png)
+![Violet Render](renders/violet.png)
 
 And a short rendered animation showcasing her:
-![Violet Animation](violet.gif)
+![Violet Animation](renders/violet.gif)
 
 ## Goals
 
@@ -24,6 +24,6 @@ And a short rendered animation showcasing her:
 - I'm excited to continue practicing and enhancing my skills to create even more captivating characters in the future.
 - While Violet may have some issues, I'm proud of this first attempt and look forward to further growth as an artist.
 
-Feel free to explore Violet, provide feedback, or follow my artistic journey. I hope you find something inspiring or intriguing in my work.
+Feel free to explore, provide feedback, or follow my artistic journey. I hope you find something inspiring or intriguing in my work.
 
 Thank you for visiting my repository!
