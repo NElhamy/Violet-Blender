@@ -1,5 +1,7 @@
 # Violet-Blender
 
+<img src="renders/violet.png" width="400" height="482" alt="Violet Render">
+
 Welcome to my "Violet-Blender" repository! This is where I'm sharing my first stylized character head sculpt, named Violet. While it's a basic sculpt with room for improvement, it's an important milestone in my journey to become a better 3D artist.
 
 ## About Violet
@@ -12,11 +14,8 @@ Welcome to my "Violet-Blender" repository! This is where I'm sharing my first st
 
 ## Rendered Artwork
 
-Here's an image of Violet:
-![Violet Render](renders/violet.png)
-
-And a short rendered animation showcasing her:
-![Violet Animation](renders/violet.gif)
+Here's a short rendered animation showcasing her:
+<img src="renders/violet.gif" width="400" height="482" alt="Violet Animation">
 
 ## Goals
 
